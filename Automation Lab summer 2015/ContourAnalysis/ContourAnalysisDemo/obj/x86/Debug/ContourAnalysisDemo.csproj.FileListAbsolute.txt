@@ -1,0 +1,169 @@
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe.config
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\angry.png
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\happy.png
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\home.png
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\smile.png
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\web.png
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Smiles.bin
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Tahoma.bin
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.Util.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_core220.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_highgui220.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_imgproc220.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.pdb
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.dll
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.pdb
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.pdb
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csprojResolveAssemblyReference.cache
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.AutoGenerateForm.resources
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.MainForm.resources
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.Properties.Resources.resources
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.ShowContoursForm.resources
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.TemplateEditor.resources
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csproj.GenerateResource.Cache
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.exe
+C:\Users\Hallo\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.pdb
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe.config
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.exe
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.pdb
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\angry.png
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\happy.png
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\home.png
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\smile.png
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\web.png
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Smiles.bin
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Tahoma.bin
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.Util.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_core220.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_highgui220.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_imgproc220.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.pdb
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.pdb
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.pdb
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.AutoGenerateForm.resources
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.MainForm.resources
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.Properties.Resources.resources
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.ShowContoursForm.resources
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.TemplateEditor.resources
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.dll
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.xml
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\My PC\Desktop\ContourAnalysis\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.xml
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe.config
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.exe
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.pdb
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\angry.png
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\happy.png
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\home.png
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\smile.png
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\web.png
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Smiles.bin
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Tahoma.bin
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.Util.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_core220.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_highgui220.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_imgproc220.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.pdb
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.dll
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.pdb
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.pdb
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.xml
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.xml
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.xml
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csprojResolveAssemblyReference.cache
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.AutoGenerateForm.resources
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.MainForm.resources
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.Properties.Resources.resources
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.ShowContoursForm.resources
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.TemplateEditor.resources
+C:\Users\Hallo\Desktop\test2\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csproj.GenerateResource.Cache
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe.config
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.exe
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.pdb
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\angry.png
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\happy.png
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\home.png
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\smile.png
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\web.png
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Smiles.bin
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Tahoma.bin
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.UI.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.Util.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_core220.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_highgui220.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_imgproc220.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.pdb
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.dll
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.pdb
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.pdb
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.xml
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.xml
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.xml
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csprojResolveAssemblyReference.cache
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.AutoGenerateForm.resources
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.MainForm.resources
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.Properties.Resources.resources
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.ShowContoursForm.resources
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.TemplateEditor.resources
+E:\Project Compilation\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csproj.GenerateResource.Cache
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe.config
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.exe
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.pdb
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\angry.png
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\happy.png
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\home.png
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\smile.png
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\web.png
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Smiles.bin
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Tahoma.bin
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.CV.UI.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\Emgu.Util.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_core220.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_highgui220.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\opencv_imgproc220.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.exe
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisDemo.pdb
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.dll
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysisProcessing.pdb
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\ContourAnalysis.pdb
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.xml
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Imaging.xml
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\bin\Debug\AForge.Math.xml
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csprojResolveAssemblyReference.cache
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.AutoGenerateForm.resources
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.MainForm.resources
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.Properties.Resources.resources
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.ShowContoursForm.resources
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.TemplateEditor.resources
+E:\Master IT 2015\Automation Lab summer 2015\ContourAnalysis\ContourAnalysisDemo\obj\x86\Debug\ContourAnalysisDemo.csproj.GenerateResource.Cache

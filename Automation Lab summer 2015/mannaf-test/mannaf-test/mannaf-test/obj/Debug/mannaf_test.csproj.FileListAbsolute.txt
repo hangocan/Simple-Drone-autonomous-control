@@ -1,0 +1,366 @@
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.exe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.exe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\mannaf-test.exe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\mannaf-test.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.dll
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.pdb
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.xml
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csprojResolveAssemblyReference.cache
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\TinyCLR_DebugReferences.cache
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.resources
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csproj.GenerateResource.Cache
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.tinyresources
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\TinyResGen.cache
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pdbx
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf-test.exe
+E:\DOTNETPROJECTS\mannaf-test\mannaf-test\obj\Debug\mannaf-test.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.exe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.exe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\mannaf-test.exe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\mannaf-test.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.pdb
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csprojResolveAssemblyReference.cache
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.resources
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csproj.GenerateResource.Cache
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.tinyresources
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\TinyResGen.cache
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pdbx
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf-test.exe
+C:\Users\MOON\Desktop\automation pech project\backup\mannaf-test\mannaf-test\obj\Debug\mannaf-test.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.exe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.exe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\mannaf-test.exe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\mannaf-test.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\le\mannaf-test.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\be\mannaf-test.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.USBHost.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.USBHost.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.dll
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.SPI.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebClient.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\Gadgeteer.WebServer.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Net.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.System.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.USBHost.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Button.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.Camera.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.pdb
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.IO.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\bin\Debug\GHI.Premium.Hardware.xml
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csprojResolveAssemblyReference.cache
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.resources
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf_test.csproj.GenerateResource.Cache
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf_test.Resources.tinyresources
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\TinyResGen.cache
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\be\mannaf-test.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\le\mannaf-test.pdbx
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf-test.exe
+D:\Compressed\mannaf-test\mannaf-test\mannaf-test\obj\Debug\mannaf-test.pdb
